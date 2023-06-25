@@ -49,9 +49,9 @@ Let me share a couple of projects I've worked on:
 - Technologies used: C++
 
 ## Research Work
--Topic: Telecommunication Stocks Prediction using Long Short-Term Memory Model Neural Network [CoCole 2022, NIT Warangal ] (01/2023)
--Description: Developed a predictive model for the stock market performance of Telecommunication companies using LSTM, a cutting-edge deep-learning sequential model.                      Demonstrated superior performance of LSTM over other models by examining the impact of epochs on model accuracy. 
--DOI: 10.1007/978-3-031-21750-0_26. 
+- Topic: Telecommunication Stocks Prediction using Long Short-Term Memory Model Neural Network [CoCole 2022, NIT Warangal ] (01/2023)
+- Description: Developed a predictive model for the stock market performance of Telecommunication companies using LSTM, a cutting-edge deep-learning sequential model.                      Demonstrated superior performance of LSTM over other models by examining the impact of epochs on model accuracy. 
+- DOI: [DOI](10.1007/978-3-031-21750-0_26) 
  
 
 ## ✨ Achievements
@@ -72,8 +72,8 @@ Let me share a couple of projects I've worked on:
 
 These are some of the conferences and events I have been as an attendee.
 
-### RubyConf India, 2022
-### DevFest, 2002 organized by Google Developer Groups
+- RubyConf India, 2022
+- DevFest, 2002 organized by Google Developer Groups
 
 Feel free to connect with me! I'm open to collaboration and always eager to learn and grow.
 
