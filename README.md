@@ -8,17 +8,18 @@
 
 💡 I believe in the power of clean code and the importance of user-centric design. I strive to create intuitive and seamless user experiences that make a difference.
 
-📫 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/nandinijhanwar/) or drop me an email at [Email](nandinijhanwar67@gmail.com). I'm always open to new opportunities, collaboration, and sharing knowledge.
+📫 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/nandinijhanwar/) or drop me an [Email](nandinijhanwar67@gmail.com). I'm always open to new opportunities, collaboration, and sharing knowledge.
 
 ⚡ Fun fact: When I'm not coding, you can find me playing badminton, solving Rubix cubes or exploring the great outdoors the world has offered.
 
 ## 🚀 Skills and Technologies
 
-- Programming Languages: Ruby, Python, C++
-- Front-end Development: HTML, CSS
-- FrameWork - Ruby on Rails
-- Databases: MySQL, PostgreSQL
-- Version Control: Git, GitHub
+- Programming Languages: <i class="bi bi-ruby"></i> Ruby, <i class="bi bi-python"></i> Python, <i class="bi bi-code-slash"></i> C++
+- Front-end Development: <i class="bi bi-file-code"></i> HTML, <i class="bi bi-file-code"></i> CSS
+- Framework - <i class="bi bi-ruby"></i> Ruby on Rails
+- Databases: <i class="bi bi-database"></i> MySQL, <i class="bi bi-database"></i> PostgreSQL
+- Version Control: <i class="bi bi-code-slash"></i> Git, <i class="bi bi-github"></i> GitHub
+- Data Structures and Algorithms
 
 ## 🌱 Projects
 
@@ -28,7 +29,7 @@ Let me share a couple of projects I've worked on:
 
 - Description: The project is a proposed system enables donors to register and find blood banks based on their geographical location, allowing them to contribute to the                    emergency blood supply in a more organized and effective manner. The system also provides blood banks to manage their inventory and monitor blood supply and                 demand in real time. Furthermore, it seamlessly empowers hospitals to request blood units from nearby blood banks. It an authorization-based system having                   three roles - Super Admin, Admin and User. Super Admin can register and manage all the blood banks to the system. Admin can manage the donations, inventories                and consumptions of blood of patients and patients can see their information.
 - Technologies used: Ruby on Rails, PostgreSQL
-- Demo:  [Github](https://github.com/Nandini2806/blood_banking)
+- Demo:  [Project Link](https://github.com/Nandini2806/blood_banking)
 
 ### Covid-19 Data Analysis Project
 
@@ -51,7 +52,7 @@ Let me share a couple of projects I've worked on:
 ## Research Work
 - Topic: Telecommunication Stocks Prediction using Long Short-Term Memory Model Neural Network [CoCole 2022, NIT Warangal ] (01/2023)
 - Description: Developed a predictive model for the stock market performance of Telecommunication companies using LSTM, a cutting-edge deep-learning sequential model.                      Demonstrated superior performance of LSTM over other models by examining the impact of epochs on model accuracy. 
-- DOI: [DOI](10.1007/978-3-031-21750-0_26) 
+- DOI: [Paper link](10.1007/978-3-031-21750-0_26) 
  
 
 ## ✨ Achievements
